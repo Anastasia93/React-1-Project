@@ -1,5 +1,3 @@
-import { CORE_CONCEPTS } from "../data.js";
-
 export default function CoreConcept({image, title, description}) {
     return (
       <li>
